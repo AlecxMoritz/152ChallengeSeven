@@ -1,0 +1,17 @@
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\bin\Debug\Challenge_7_Tests.dll
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\bin\Debug\Challenge_7_Tests.pdb
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\bin\Debug\Challenge_7.exe
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\bin\Debug\Challenge_7.pdb
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\bin\Debug\Challenge_7.exe.config
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\obj\Debug\Challenge_7_Tests.csprojAssemblyReference.cache
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\obj\Debug\Challenge_7_Tests.csproj.CoreCompileInputs.cache
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\obj\Debug\Challenge_7_Tests.csproj.CopyComplete
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\obj\Debug\Challenge_7_Tests.dll
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7_Tests\obj\Debug\Challenge_7_Tests.pdb

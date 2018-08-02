@@ -1,0 +1,7 @@
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7\bin\Debug\Challenge_7.exe.config
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7\bin\Debug\Challenge_7.exe
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7\bin\Debug\Challenge_7.pdb
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7\obj\Debug\Challenge_7.csprojAssemblyReference.cache
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7\obj\Debug\Challenge_7.csproj.CoreCompileInputs.cache
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7\obj\Debug\Challenge_7.exe
+C:\Users\hanel\Documents\devShiet\dotNetJuly2018\vsCommunity\DotNet-152-Challenges-master\Challenge_7\obj\Debug\Challenge_7.pdb
